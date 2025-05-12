@@ -7,3 +7,6 @@ Use your new HTML knowledge to create the underlying structure of the blog. Make
 
 ## Technologies Used
 HTML
+
+## Live Link
+https://s-coder98.github.io/fashionblog/
